@@ -40,3 +40,9 @@
 Teruyuki
 
 Synthesist
+
+## Status
+
+Rising App Lab has started.
+
+October 2026
