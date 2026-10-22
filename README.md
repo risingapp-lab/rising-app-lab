@@ -29,6 +29,10 @@ a Synthesist connects and synthesizes
 mechanical, electrical, software, AI,
 business, and human-centered perspectives.
 
+> Technology alone has no value.
+>
+> Value emerges when technology, people, and experiences are synthesized.
+
 ---
 
 ## Interests
