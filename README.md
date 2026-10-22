@@ -44,9 +44,18 @@ See Slack #06_資産管理
 ## Current Projects
 
 - Rising App Lab Foundation
-- Digital Twin
-- AI Workforce
-- XR Research
+
+### AI Workforce
+AI社員の研究と実装
+
+### XR Research
+AR/VR/XRの研究
+
+### Digital Twin
+現実世界とデジタル世界の接続
+
+### Value Creation
+価値創造手法の研究
 
 ---
 
