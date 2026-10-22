@@ -32,6 +32,8 @@ business, and human-centered perspectives.
 > Technology alone has no value.
 >
 > Value emerges when technology, people, and experiences are synthesized.
+>
+> This is the essence of a Synthesist.
 
 ---
 
