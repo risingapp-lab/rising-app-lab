@@ -43,7 +43,8 @@ See Slack #06_資産管理
 
 ## Current Projects
 
-- Rising App Lab Foundation
+### Rising App Lab Foundation
+Rising App Labの基盤構築
 
 ### AI Workforce
 AI社員の研究と実装
