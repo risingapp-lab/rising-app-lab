@@ -35,6 +35,21 @@
 
 ---
 
+## Asset Inventory
+
+See Slack #06_資産管理
+
+---
+
+## Current Projects
+
+- Rising App Lab Foundation
+- Digital Twin
+- AI Workforce
+- XR Research
+
+---
+
 ## Founder
 
 Teruyuki
