@@ -18,8 +18,16 @@
 
 ## Synthesist
 
-異なる分野・技術・人・価値観・世界を統合し、
-新しい価値や体験を創造する者。
+Derived from the Greek word "Synthesis" (σύνθεσις),
+meaning integration and combination.
+
+A Synthesist integrates technologies, people,
+experiences, and ideas to create new value.
+
+Rather than specializing in a single field,
+a Synthesist connects and synthesizes
+mechanical, electrical, software, AI,
+business, and human-centered perspectives.
 
 ---
 
