@@ -35,6 +35,8 @@ business, and human-centered perspectives.
 >
 > This is the essence of a Synthesist.
 
+A Synthesist seeks value not in isolated technologies, but in unexpected combinations.
+
 ---
 
 ## Interests
